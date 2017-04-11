@@ -1,0 +1,26 @@
+{
+  "name": "node_todo",
+  "version": "1.0.0",
+  "description": "simple todo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulajsan/todo_app.git"
+  },
+  "author": "dulaj sanjaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulajsan/todo_app/issues"
+  },
+  "homepage": "https://github.com/dulajsan/todo_app#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "method-override": "^2.3.8",
+    "mongoose": "^4.9.4",
+    "morgan": "^1.8.1"
+  }
+}
